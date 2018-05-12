@@ -1,0 +1,32 @@
+_repo: Luther-and-the-Reformation-The-Life-Springs-of-Our-Liberties_16797
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seiss, Joseph Augustus
+    aliases:
+    - Seiss, J. A. (Joseph Augustus)
+    - Seiss, Joseph A. (Joseph Augustus)
+    birthdate: 1823
+    deathdate: 1904
+    gutenberg_agent_id: '6940'
+    url: http://www.gutenberg.org/2009/agents/6940
+description: ''
+gutenberg_issued: '2005-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Luther, Martin, 1483-1546'
+- !lcc 'BR'
+- !lcsh 'Pennsylvania -- History -- Colonial period, ca. 1600-1775'
+title: 'Luther and the Reformation:
+
+  The Life-Springs of Our Liberties'
+url: http://www.gutenberg.org/ebooks/16797
